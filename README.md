@@ -19,7 +19,7 @@ sql-practice/
 |    1   | SELECT Queries 101                  |    ✅   |
 |    2   | Queries with Constraints (Pt. 1)    |    ✅   |
 |    3   | Queries with Constraints (Pt. 2)    |    ✅   |
-|    4   | Filtering and Sorting Query Results |    ⬜   |
+|    4   | Filtering and Sorting Query Results |    ✅   |
 |    5   | Simple SELECT Queries Review        |    ⬜   |
 |    6   | Multi-table Queries with JOINs      |    ⬜   |
 |    7   | OUTER JOINs                         |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **3 / 18**
+* Completed Lessons: **4 / 18**
 
 ---
 
