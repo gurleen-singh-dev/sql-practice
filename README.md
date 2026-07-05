@@ -22,7 +22,7 @@ sql-practice/
 |    4   | Filtering and Sorting Query Results |    ✅   |
 |    5   | Simple SELECT Queries Review        |    ✅   |
 |    6   | Multi-table Queries with JOINs      |    ✅   |
-|    7   | OUTER JOINs                         |    ⬜   |
+|    7   | OUTER JOINs                         |    ✅   |
 |    8   | A Short Note on NULLs               |    ⬜   |
 |    9   | Queries with Expressions            |    ⬜   |
 |   10   | Queries with Aggregates (Pt. 1)     |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **6 / 18**
+* Completed Lessons: **7 / 18**
 
 ---
 
