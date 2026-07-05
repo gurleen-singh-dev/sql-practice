@@ -21,7 +21,7 @@ sql-practice/
 |    3   | Queries with Constraints (Pt. 2)    |    ✅   |
 |    4   | Filtering and Sorting Query Results |    ✅   |
 |    5   | Simple SELECT Queries Review        |    ✅   |
-|    6   | Multi-table Queries with JOINs      |    ⬜   |
+|    6   | Multi-table Queries with JOINs      |    ✅   |
 |    7   | OUTER JOINs                         |    ⬜   |
 |    8   | A Short Note on NULLs               |    ⬜   |
 |    9   | Queries with Expressions            |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **5 / 18**
+* Completed Lessons: **6 / 18**
 
 ---
 
