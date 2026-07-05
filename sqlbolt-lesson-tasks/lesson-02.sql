@@ -1,4 +1,4 @@
--- https://sqlbolt.com/lesson/select_queries_with_constraints
+--  SQL Lesson 2: Queries with constraints (Pt. 1) 
 
 -- 1. Find the movie with a row id of 6
 SELECT * FROM movies WHERE Id = 6;

@@ -1,4 +1,4 @@
--- https://sqlbolt.com/lesson/select_queries_with_constraints_pt_2
+-- SQL Lesson 3: Queries with constraints (Pt. 2) 
 
 -- 1. Find all the Toy Story movies
 SELECT * FROM movies WHERE Title like "%Toy Story%";

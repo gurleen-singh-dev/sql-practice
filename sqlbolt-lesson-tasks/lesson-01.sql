@@ -1,4 +1,4 @@
--- https://sqlbolt.com/lesson/select_queries_introduction
+-- SQL Lesson 1: SELECT queries 101 
 
 -- 1. Find the title of each film 
 SELECT title FROM movies;
