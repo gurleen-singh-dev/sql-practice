@@ -24,7 +24,7 @@ sql-practice/
 |    6   | Multi-table Queries with JOINs      |    ✅   |
 |    7   | OUTER JOINs                         |    ✅   |
 |    8   | A Short Note on NULLs               |    ✅   |
-|    9   | Queries with Expressions            |    ⬜   |
+|    9   | Queries with Expressions            |    ✅   |
 |   10   | Queries with Aggregates (Pt. 1)     |    ⬜   |
 |   11   | Queries with Aggregates (Pt. 2)     |    ⬜   |
 |   12   | Order of Execution of a Query       |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **8 / 18**
+* Completed Lessons: **9 / 18**
 
 ---
 
