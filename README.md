@@ -26,7 +26,7 @@ sql-practice/
 |    8   | A Short Note on NULLs               |    ✅   |
 |    9   | Queries with Expressions            |    ✅   |
 |   10   | Queries with Aggregates (Pt. 1)     |    ✅   |
-|   11   | Queries with Aggregates (Pt. 2)     |    ⬜   |
+|   11   | Queries with Aggregates (Pt. 2)     |    ✅   |
 |   12   | Order of Execution of a Query       |    ⬜   |
 |   13   | Inserting Rows                      |    ⬜   |
 |   14   | Updating Rows                       |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **10 / 18**
+* Completed Lessons: **11 / 18**
 
 ---
 
