@@ -25,7 +25,7 @@ sql-practice/
 |    7   | OUTER JOINs                         |    ✅   |
 |    8   | A Short Note on NULLs               |    ✅   |
 |    9   | Queries with Expressions            |    ✅   |
-|   10   | Queries with Aggregates (Pt. 1)     |    ⬜   |
+|   10   | Queries with Aggregates (Pt. 1)     |    ✅   |
 |   11   | Queries with Aggregates (Pt. 2)     |    ⬜   |
 |   12   | Order of Execution of a Query       |    ⬜   |
 |   13   | Inserting Rows                      |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **9 / 18**
+* Completed Lessons: **10 / 18**
 
 ---
 
