@@ -31,7 +31,7 @@ sql-practice/
 |   13   | Inserting Rows                      |    ✅   |
 |   14   | Updating Rows                       |    ✅   |
 |   15   | Deleting Rows                       |    ✅   |
-|   16   | Creating Tables                     |    ⬜   |
+|   16   | Creating Tables                     |    ✅   |
 |   17   | Altering Tables                     |    ⬜   |
 |   18   | Dropping Tables                     |    ⬜   |
 
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **13 / 18**
+* Completed Lessons: **16 / 18**
 
 ---
 
