@@ -29,7 +29,7 @@ sql-practice/
 |   11   | Queries with Aggregates (Pt. 2)     |    ✅   |
 |   12   | Order of Execution of a Query       |    ✅   |
 |   13   | Inserting Rows                      |    ✅   |
-|   14   | Updating Rows                       |    ⬜   |
+|   14   | Updating Rows                       |    ✅   |
 |   15   | Deleting Rows                       |    ⬜   |
 |   16   | Creating Tables                     |    ⬜   |
 |   17   | Altering Tables                     |    ⬜   |
