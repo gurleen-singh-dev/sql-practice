@@ -33,13 +33,13 @@ sql-practice/
 |   15   | Deleting Rows                       |    ✅   |
 |   16   | Creating Tables                     |    ✅   |
 |   17   | Altering Tables                     |    ✅   |
-|   18   | Dropping Tables                     |    ⬜   |
+|   18   | Dropping Tables                     |    ✅   |
 
 ---
 
 ## Progress
 
-* Completed Lessons: **17 / 18**
+* Completed Lessons: **18 / 18**
 
 ---
 
