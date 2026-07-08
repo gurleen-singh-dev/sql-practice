@@ -28,7 +28,7 @@ sql-practice/
 |   10   | Queries with Aggregates (Pt. 1)     |    ✅   |
 |   11   | Queries with Aggregates (Pt. 2)     |    ✅   |
 |   12   | Order of Execution of a Query       |    ✅   |
-|   13   | Inserting Rows                      |    ⬜   |
+|   13   | Inserting Rows                      |    ✅   |
 |   14   | Updating Rows                       |    ⬜   |
 |   15   | Deleting Rows                       |    ⬜   |
 |   16   | Creating Tables                     |    ⬜   |
@@ -39,7 +39,7 @@ sql-practice/
 
 ## Progress
 
-* Completed Lessons: **12 / 18**
+* Completed Lessons: **13 / 18**
 
 ---
 
