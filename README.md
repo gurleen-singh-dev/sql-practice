@@ -1,12 +1,43 @@
 # SQL Practice
 
-This repository contains my SQL solutions from SQLBolt.com. It serves as a record of my progress while learning SQL, from basic queries to advanced concepts.
+<p align="center">
+  <b>My journey of learning SQL through hands-on practice.</b><br>
+  Solutions to SQL challenges from multiple platforms, organized by source and tracked over time.
+</p>
 
-## Repository Structure
+---
+
+## 📊 Progress
+
+| Platform | Progress | Status |
+|----------|:--------:|:------:|
+| SQLBolt | **18 / 18 Lessons** | ✅ Completed |
+| HackerRank SQL | **12 Challenges** | 🚧 In Progress |
+
+---
+
+## 🛠 Platforms
+
+| Platform | Description |
+|----------|-------------|
+| [SQLBolt](https://sqlbolt.com/) | Interactive lessons covering SQL fundamentals from beginner to advanced concepts. |
+| [HackerRank SQL](https://www.hackerrank.com/domains/sql) | SQL challenges focused on query writing and problem-solving. |
+
+---
+
+## 📁 Repository Structure
 
 ```text
 sql-practice/
+│
 ├── sqlbolt-lesson-tasks/
+│
+├── HackerRank/
+│   ├── challenge-01.sql
+│   ├── challenge-02.sql
+│   ├── ...
+│   └── challenge-12.sql
+│
 └── README.md
 ```
 
@@ -36,19 +67,34 @@ sql-practice/
 |   18   | Dropping Tables                     |    ✅   |
 
 ---
+--
 
-## Progress
+## HackerRank SQL
 
-* Completed Lessons: **18 / 18**
-
----
-
-## Platforms
-
-* SQLBolt
+- ✅ Completed **12 SQL challenges**
+- Challenges are stored as individual `.sql` files inside the `HackerRank/` directory.
+- New solutions are added as I progress through the HackerRank SQL track.
 
 ---
 
-## Goal
+## Goals
 
-Build a strong foundation in SQL by consistently solving problems and documenting solutions from beginner to advanced level.
+- Complete the HackerRank SQL track.
+- Learn advanced SQL concepts such as:
+  - Window Functions
+  - Common Table Expressions (CTEs)
+  - Recursive Queries
+  - Views
+  - Stored Procedures
+  - Indexing & Query Optimization
+
+---
+
+## GitHub Badges
+
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)
+![SQLBolt](https://img.shields.io/badge/SQLBolt-18%2F18-success)
+![HackerRank](https://img.shields.io/badge/HackerRank-12%20Solved-brightgreen?logo=hackerrank)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+---
