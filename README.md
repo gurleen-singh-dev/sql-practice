@@ -12,7 +12,7 @@
 | Platform | Progress | Status |
 |----------|:--------:|:------:|
 | SQLBolt | **18 / 18 Lessons** | ✅ Completed |
-| HackerRank SQL | **20 Challenges** | 🚧 In Progress |
+| HackerRank SQL | **21 Challenges** | 🚧 In Progress |
 
 ---
 
@@ -90,11 +90,11 @@ sql-practice/
 
 ---
 
-## GitHub Badges
+## Badges
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)
 ![SQLBolt](https://img.shields.io/badge/SQLBolt-18%2F18-success)
-![HackerRank](https://img.shields.io/badge/HackerRank-12%20Solved-brightgreen?logo=hackerrank)
+![HackerRank](https://img.shields.io/badge/HackerRank-21%20Solved-brightgreen?logo=hackerrank)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
