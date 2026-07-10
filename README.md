@@ -12,7 +12,7 @@
 | Platform | Progress | Status |
 |----------|:--------:|:------:|
 | SQLBolt | **18 / 18 Lessons** | ✅ Completed |
-| HackerRank SQL | **19 Challenges** | 🚧 In Progress |
+| HackerRank SQL | **20 Challenges** | 🚧 In Progress |
 
 ---
 
