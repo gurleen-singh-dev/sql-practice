@@ -71,7 +71,7 @@ sql-practice/
 
 ## HackerRank SQL
 
-- ✅ Completed **12 SQL challenges**
+- ✅ Completed **22 SQL challenges**
 - Challenges are stored as individual `.sql` files inside the `HackerRank/` directory.
 - New solutions are added as I progress through the HackerRank SQL track.
 
