@@ -2,7 +2,20 @@
 
 <p align="center">
   <b>My journey of learning SQL through hands-on practice.</b><br>
-  Solutions to SQL challenges from multiple platforms, organized by source and tracked over time.
+  # SQL Practice
+
+A collection of SQL exercises and solutions completed while learning
+SQL through SQLBolt and HackerRank.
+
+The repository focuses on progressively building skills in:
+- SELECT and filtering
+- Sorting and aggregation
+- JOINs
+- NULL handling
+- INSERT, UPDATE and DELETE
+- CASE expressions
+- Subqueries
+- Window functions and CTEs (upcoming)
 </p>
 
 ---
@@ -12,7 +25,7 @@
 | Platform | Progress | Status |
 |----------|:--------:|:------:|
 | SQLBolt | **18 / 18 Lessons** | ✅ Completed |
-| HackerRank SQL | **21 Challenges** | 🚧 In Progress |
+| HackerRank SQL | **22 Challenges** | 🚧 In Progress |
 
 ---
 
@@ -36,7 +49,7 @@ sql-practice/
 │   ├── challenge-01.sql
 │   ├── challenge-02.sql
 │   ├── ...
-│   └── challenge-12.sql
+│   └── challenge-22.sql
 │
 └── README.md
 ```
